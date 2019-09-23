@@ -1,0 +1,18 @@
+.App {
+  text-align: center
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 5s linear;
+  height: 30vmin;
+  pointer-events: none;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: scale(0.1)
+  }
+  to {    
+    transform: scale(1.0)
+  }
+}
